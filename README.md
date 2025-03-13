@@ -93,3 +93,6 @@
 - Googleログイン機能: Devise, ominiauth
 - 通知機能: ActionCable（Rails標準のWebSocket）
     - 余裕があればプッシュ通知もじっそうできればと考えています。(Web Push API)
+
+## 画面遷移図
+[Figma](https://www.figma.com/design/xYSCA1aYhpkCDbDW3HFErn/my-app?node-id=0-1&t=q4rsYHzfVvGa7c3D-1)
