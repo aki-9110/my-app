@@ -96,3 +96,7 @@
 
 ## 画面遷移図
 [Figma](https://www.figma.com/design/xYSCA1aYhpkCDbDW3HFErn/my-app?node-id=0-1&t=q4rsYHzfVvGa7c3D-1)
+
+## ER1図
+[dbdiagram](https://dbdiagram.io/d/my-app-67d50d7475d75cc8442b11ec)
+![ER図](/Users/akito/Pictures/2d2e1a1d88e63a3399ea7c1cec52caa3.png)
