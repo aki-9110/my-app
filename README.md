@@ -99,4 +99,4 @@
 
 ## ER1図
 [dbdiagram](https://dbdiagram.io/d/my-app-67d50d7475d75cc8442b11ec)
-![ER図](/Users/akito/Pictures/2d2e1a1d88e63a3399ea7c1cec52caa3.png)
+![alt text](er.png)
