@@ -101,4 +101,3 @@
 
 ## ER1図
 [dbdiagram](https://dbdiagram.io/d/my-app-67d50d7475d75cc8442b11ec)
-![alt text](er.png)
