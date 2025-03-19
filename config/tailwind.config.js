@@ -13,7 +13,7 @@ module.exports = {
         serif: ['Noto Serif JP', 'sans-serif'],
         sans: ['Noto Sans', ...defaultTheme.fontFamily.sans],
       },
-      color: {
+      colors: {
         dullGold: '#D4B886', //見出し(くすみゴールド)
         goldBeige: '#EED9B6', //ボタン・リンクのホバー(ゴールドベージュ)
         grayBlue: '#3A4155', //カード背景(グレーブルー)
