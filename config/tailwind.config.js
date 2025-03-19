@@ -10,8 +10,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['Noto Serif JP', 'sans-serif'],
-        sans: ['Noto Sans', ...defaultTheme.fontFamily.sans],
+        header: ["Yu Mincho", 'sans-serif'],
+        text: ['Noto Sans', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         dullGold: '#D4B886', //見出し(くすみゴールド)
