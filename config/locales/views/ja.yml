@@ -1,0 +1,12 @@
+ja:
+  shared:
+    header:
+      log_in: 'ログイン'
+      sign_up: '新規登録'
+      inquiry: '問い合わせ'
+      review_index: '投稿一覧'
+      top: 'ホーム'
+    footer:
+      inquiry: '問い合わせ'
+      privacy: プライバシーポリシー
+      terms: 利用規約
