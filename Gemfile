@@ -24,6 +24,8 @@ gem "tailwindcss-ruby", "3.4.17"
 
 gem "rubocop"
 
+gem 'rails-i18n', '~> 7.0.0'
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
